@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: altair-intro.ipynb
+- file: altair-intro.ipynb 
